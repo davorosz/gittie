@@ -1,5 +1,8 @@
 def introduce():
     print("My name is gittie, I have a big titty")
+    print("hello ann")
+    a = 0
+    print(a + 10000)
 
 
 def joke():
