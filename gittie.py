@@ -20,3 +20,6 @@ def Géza():
 
 def night_at_the_hood():
     print("where is th hood at?")
+
+def shout():
+    print("Nincs Semmi baj csiga")
