@@ -1,5 +1,5 @@
 def introduce():
-    print("My name is gittie, I have a big titty")
+    print("My name is gittie, I have a big ass")
 
 
 def joke():
@@ -12,5 +12,7 @@ def add():
 
 def Géza():
     print("Géza")
+
+
 def night_at_the_hood():
     print("where is th hood at?")
