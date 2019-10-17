@@ -23,4 +23,4 @@ def night_at_the_hood():
 
 
 def shout():
-    print("Nincs Semmi baj csiga")
+    print("Fidesz")
