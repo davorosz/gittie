@@ -6,3 +6,6 @@ def joke():
 
 def add():
     print("add")
+
+def night_at_the_hood():
+    print("where is th hood at?")
